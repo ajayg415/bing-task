@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "url": 1,
+    "category": "Trending",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 720
+  },
+  {
+    "id": 2,
+    "url": 2,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "Birthday",
+    "price": 230
+  },
+  {
+    "id": 3,
+    "url": 3,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 869
+  },
+  {
+    "id": 4,
+    "url": 4,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 440
+  },
+  {
+    "id": 5,
+    "url": 5,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 399
+  },
+  {
+    "id": 6,
+    "url": 6,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 245
+  },
+  {
+    "id": 7,
+    "url": 7,
+    "category": "Trending",
+    "searchFor": "Women",
+    "collection": "Birthday",
+    "price": 133
+  },
+  {
+    "id": 8,
+    "url": 8,
+    "category": "Trending",
+    "searchFor": "Friends",
+    "collection": "School",
+    "price": 577
+  },
+  {
+    "id": 9,
+    "url": 9,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 472
+  },
+  {
+    "id": 10,
+    "url": 10,
+    "category": "Home Décor",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 458
+  },
+  {
+    "id": 11,
+    "url": 11,
+    "category": "Appliances",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 860
+  },
+  {
+    "id": 12,
+    "url": 12,
+    "category": "Appliances",
+    "searchFor": "Kids",
+    "collection": "Christmas",
+    "price": 935
+  },
+  {
+    "id": 13,
+    "url": 13,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 950
+  },
+  {
+    "id": 14,
+    "url": 14,
+    "category": "Electronics",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 960
+  },
+  {
+    "id": 15,
+    "url": 15,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 831
+  },
+  {
+    "id": 16,
+    "url": 16,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 677
+  },
+  {
+    "id": 17,
+    "url": 17,
+    "category": "Electronics",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 414
+  },
+  {
+    "id": 18,
+    "url": 18,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 378
+  },
+  {
+    "id": 19,
+    "url": 19,
+    "category": "Appliances",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 658
+  },
+  {
+    "id": 20,
+    "url": 20,
+    "category": "Lifestyle",
+    "searchFor": "Friends",
+    "collection": "School",
+    "price": 592
+  },
+  {
+    "id": 21,
+    "url": 21,
+    "category": "Home Décor",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 925
+  },
+  {
+    "id": 22,
+    "url": 22,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 199
+  },
+  {
+    "id": 23,
+    "url": 23,
+    "category": "Trending",
+    "searchFor": "Friends",
+    "collection": "Christmas",
+    "price": 889
+  },
+  {
+    "id": 24,
+    "url": 24,
+    "category": "Electronics",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 605
+  },
+  {
+    "id": 25,
+    "url": 25,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 717
+  },
+  {
+    "id": 26,
+    "url": 26,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "Birthday",
+    "price": 630
+  },
+  {
+    "id": 27,
+    "url": 27,
+    "category": "Lifestyle",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 977
+  },
+  {
+    "id": 28,
+    "url": 28,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Birthday",
+    "price": 780
+  },
+  {
+    "id": 29,
+    "url": 29,
+    "category": "Appliances",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 813
+  },
+  {
+    "id": 30,
+    "url": 30,
+    "category": "Home Décor",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 18
+  },
+  {
+    "id": 31,
+    "url": 31,
+    "category": "Electronics",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 529
+  },
+  {
+    "id": 32,
+    "url": 32,
+    "category": "Appliances",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 119
+  },
+  {
+    "id": 33,
+    "url": 33,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 34
+  },
+  {
+    "id": 34,
+    "url": 34,
+    "category": "Appliances",
+    "searchFor": "Friends",
+    "collection": "School",
+    "price": 140
+  },
+  {
+    "id": 35,
+    "url": 35,
+    "category": "Lifestyle",
+    "searchFor": "Friends",
+    "collection": "School",
+    "price": 959
+  },
+  {
+    "id": 36,
+    "url": 36,
+    "category": "Home Décor",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 208
+  },
+  {
+    "id": 37,
+    "url": 37,
+    "category": "Trending",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 899
+  },
+  {
+    "id": 38,
+    "url": 38,
+    "category": "Lifestyle",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 667
+  },
+  {
+    "id": 39,
+    "url": 39,
+    "category": "Home Décor",
+    "searchFor": "Friends",
+    "collection": "Christmas",
+    "price": 451
+  },
+  {
+    "id": 40,
+    "url": 40,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Christmas",
+    "price": 596
+  },
+  {
+    "id": 41,
+    "url": 41,
+    "category": "Trending",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 924
+  },
+  {
+    "id": 42,
+    "url": 42,
+    "category": "Trending",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 840
+  },
+  {
+    "id": 43,
+    "url": 43,
+    "category": "Home Décor",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 463
+  },
+  {
+    "id": 44,
+    "url": 44,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Christmas",
+    "price": 281
+  },
+  {
+    "id": 45,
+    "url": 45,
+    "category": "Home Décor",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 787
+  },
+  {
+    "id": 46,
+    "url": 46,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 431
+  },
+  {
+    "id": 47,
+    "url": 47,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Birthday",
+    "price": 72
+  },
+  {
+    "id": 48,
+    "url": 48,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "Birthday",
+    "price": 169
+  },
+  {
+    "id": 49,
+    "url": 49,
+    "category": "Appliances",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 13
+  },
+  {
+    "id": 50,
+    "url": 50,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 153
+  },
+  {
+    "id": 51,
+    "url": 51,
+    "category": "Appliances",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 294
+  },
+  {
+    "id": 52,
+    "url": 52,
+    "category": "Lifestyle",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 548
+  },
+  {
+    "id": 53,
+    "url": 53,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 266
+  },
+  {
+    "id": 54,
+    "url": 54,
+    "category": "Trending",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 235
+  },
+  {
+    "id": 55,
+    "url": 55,
+    "category": "Home Décor",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 788
+  },
+  {
+    "id": 56,
+    "url": 56,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Birthday",
+    "price": 536
+  },
+  {
+    "id": 57,
+    "url": 57,
+    "category": "Lifestyle",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 317
+  },
+  {
+    "id": 58,
+    "url": 58,
+    "category": "Electronics",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 671
+  },
+  {
+    "id": 59,
+    "url": 59,
+    "category": "Trending",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 788
+  },
+  {
+    "id": 60,
+    "url": 60,
+    "category": "Lifestyle",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 789
+  },
+  {
+    "id": 61,
+    "url": 61,
+    "category": "Trending",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 688
+  },
+  {
+    "id": 62,
+    "url": 62,
+    "category": "Appliances",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 260
+  },
+  {
+    "id": 63,
+    "url": 63,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 84
+  },
+  {
+    "id": 64,
+    "url": 64,
+    "category": "Lifestyle",
+    "searchFor": "Women",
+    "collection": "Christmas",
+    "price": 547
+  },
+  {
+    "id": 65,
+    "url": 65,
+    "category": "Home Décor",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 825
+  },
+  {
+    "id": 66,
+    "url": 66,
+    "category": "Electronics",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 795
+  },
+  {
+    "id": 67,
+    "url": 67,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 668
+  },
+  {
+    "id": 68,
+    "url": 68,
+    "category": "Lifestyle",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 375
+  },
+  {
+    "id": 69,
+    "url": 69,
+    "category": "Lifestyle",
+    "searchFor": "Friends",
+    "collection": "Christmas",
+    "price": 55
+  },
+  {
+    "id": 70,
+    "url": 70,
+    "category": "Home Décor",
+    "searchFor": "Elderly",
+    "collection": "Birthday",
+    "price": 377
+  },
+  {
+    "id": 71,
+    "url": 71,
+    "category": "Lifestyle",
+    "searchFor": "Men",
+    "collection": "Birthday",
+    "price": 918
+  },
+  {
+    "id": 72,
+    "url": 72,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 668
+  },
+  {
+    "id": 73,
+    "url": 73,
+    "category": "Appliances",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 925
+  },
+  {
+    "id": 74,
+    "url": 74,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 335
+  },
+  {
+    "id": 75,
+    "url": 75,
+    "category": "Lifestyle",
+    "searchFor": "Friends",
+    "collection": "School",
+    "price": 80
+  },
+  {
+    "id": 76,
+    "url": 76,
+    "category": "Home Décor",
+    "searchFor": "Elderly",
+    "collection": "Birthday",
+    "price": 813
+  },
+  {
+    "id": 77,
+    "url": 77,
+    "category": "Electronics",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 405
+  },
+  {
+    "id": 78,
+    "url": 78,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 337
+  },
+  {
+    "id": 79,
+    "url": 79,
+    "category": "Lifestyle",
+    "searchFor": "Elderly",
+    "collection": "Christmas",
+    "price": 686
+  },
+  {
+    "id": 80,
+    "url": 80,
+    "category": "Home Décor",
+    "searchFor": "Friends",
+    "collection": "Birthday",
+    "price": 208
+  },
+  {
+    "id": 81,
+    "url": 81,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 838
+  },
+  {
+    "id": 82,
+    "url": 82,
+    "category": "Lifestyle",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 38
+  },
+  {
+    "id": 83,
+    "url": 83,
+    "category": "Lifestyle",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 792
+  },
+  {
+    "id": 84,
+    "url": 84,
+    "category": "Lifestyle",
+    "searchFor": "Friends",
+    "collection": "Christmas",
+    "price": 116
+  },
+  {
+    "id": 85,
+    "url": 85,
+    "category": "Appliances",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 164
+  },
+  {
+    "id": 86,
+    "url": 86,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 964
+  },
+  {
+    "id": 87,
+    "url": 87,
+    "category": "Home Décor",
+    "searchFor": "Kids",
+    "collection": "Christmas",
+    "price": 730
+  },
+  {
+    "id": 88,
+    "url": 88,
+    "category": "Home Décor",
+    "searchFor": "Women",
+    "collection": "Birthday",
+    "price": 40
+  },
+  {
+    "id": 89,
+    "url": 89,
+    "category": "Appliances",
+    "searchFor": "Women",
+    "collection": "Birthday",
+    "price": 732
+  },
+  {
+    "id": 90,
+    "url": 90,
+    "category": "Appliances",
+    "searchFor": "Men",
+    "collection": "School",
+    "price": 909
+  },
+  {
+    "id": 91,
+    "url": 91,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 666
+  },
+  {
+    "id": 92,
+    "url": 92,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "School",
+    "price": 863
+  },
+  {
+    "id": 93,
+    "url": 93,
+    "category": "Trending",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 632
+  },
+  {
+    "id": 94,
+    "url": 94,
+    "category": "Trending",
+    "searchFor": "Women",
+    "collection": "Birthday",
+    "price": 902
+  },
+  {
+    "id": 95,
+    "url": 95,
+    "category": "Lifestyle",
+    "searchFor": "Women",
+    "collection": "School",
+    "price": 576
+  },
+  {
+    "id": 96,
+    "url": 96,
+    "category": "Appliances",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 950
+  },
+  {
+    "id": 97,
+    "url": 97,
+    "category": "Trending",
+    "searchFor": "Men",
+    "collection": "Birthday",
+    "price": 76
+  },
+  {
+    "id": 98,
+    "url": 98,
+    "category": "Electronics",
+    "searchFor": "Kids",
+    "collection": "Birthday",
+    "price": 873
+  },
+  {
+    "id": 99,
+    "url": 99,
+    "category": "Home Décor",
+    "searchFor": "Elderly",
+    "collection": "School",
+    "price": 979
+  },
+  {
+    "id": 100,
+    "url": 100,
+    "category": "Electronics",
+    "searchFor": "Men",
+    "collection": "Christmas",
+    "price": 573
+  }
+]
