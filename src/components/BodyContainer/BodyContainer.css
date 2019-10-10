@@ -1,0 +1,9 @@
+.carousel .slide img.height {
+  height: 150px;
+}
+
+.page{
+  display: grid;
+  grid-gap: 5px;
+  padding: 5px;
+}
