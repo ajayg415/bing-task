@@ -145,7 +145,8 @@
     "category": "Electronics",
     "searchFor": "Men",
     "collection": "School",
-    "price": 378
+    "price": 378,
+    "width": 2
   },
   {
     "id": 19,
@@ -154,7 +155,7 @@
     "searchFor": "Women",
     "collection": "Christmas",
     "price": 658,
-    "width": 2
+    "height": 2
   },
   {
     "id": 20,
@@ -162,8 +163,7 @@
     "category": "Lifestyle",
     "searchFor": "Friends",
     "collection": "School",
-    "price": 592,
-    "height": 2
+    "price": 592
   },
   {
     "id": 21,
@@ -391,7 +391,8 @@
     "category": "Appliances",
     "searchFor": "Men",
     "collection": "Birthday",
-    "price": 169
+    "price": 169,
+    "width": 2
   },
   {
     "id": 49,
@@ -400,7 +401,7 @@
     "searchFor": "Elderly",
     "collection": "School",
     "price": 13,
-    "width": 2
+    "height": 2
   },
   {
     "id": 50,
@@ -408,8 +409,7 @@
     "category": "Appliances",
     "searchFor": "Men",
     "collection": "Christmas",
-    "price": 153,
-    "height": 2
+    "price": 153
   },
   {
     "id": 51,
@@ -521,8 +521,7 @@
     "category": "Lifestyle",
     "searchFor": "Women",
     "collection": "Christmas",
-    "price": 547,
-    "height": 2
+    "price": 547
   },
   {
     "id": 65,
@@ -538,8 +537,7 @@
     "category": "Electronics",
     "searchFor": "Women",
     "collection": "School",
-    "price": 795,
-    "width": 2
+    "price": 795
   },
   {
     "id": 67,
@@ -572,8 +570,7 @@
     "category": "Home Décor",
     "searchFor": "Elderly",
     "collection": "Birthday",
-    "price": 377,
-    "height": 2
+    "price": 377
   },
   {
     "id": 71,
@@ -606,7 +603,8 @@
     "category": "Trending",
     "searchFor": "Kids",
     "collection": "Birthday",
-    "price": 335
+    "price": 335,
+    "height": 2
   },
   {
     "id": 75,
@@ -622,7 +620,8 @@
     "category": "Home Décor",
     "searchFor": "Elderly",
     "collection": "Birthday",
-    "price": 813
+    "price": 813,
+    "width": 2
   },
   {
     "id": 77,
@@ -638,7 +637,8 @@
     "category": "Electronics",
     "searchFor": "Kids",
     "collection": "School",
-    "price": 337
+    "price": 337,
+    "width": 2
   },
   {
     "id": 79,
@@ -647,7 +647,7 @@
     "searchFor": "Elderly",
     "collection": "Christmas",
     "price": 686,
-    "width": 2
+    "height": 2
   },
   {
     "id": 80,

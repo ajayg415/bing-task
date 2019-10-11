@@ -2,14 +2,16 @@ import React from 'react';
 
 import BodyContainer from "./../BodyContainer/BodyContainer";
 
+import "./MainContainer.css";
+
 class MainContainer extends React.Component{
 
   render(){
     return (
-      <React.Fragment>
+      <div className='main-container'>
         <section>Filter contanet</section>
         <BodyContainer/>
-      </React.Fragment>
+      </div>
     );
   }
 }

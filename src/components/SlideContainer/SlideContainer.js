@@ -1,19 +1,44 @@
 import React from "react";
-import Item from './../Item/Item'
+import Item from "./../Item/Item";
 
 class SlideContainer extends React.Component {
-
-  componentDidMount(){
-    console.log(document.body.offsetWidth);
+  constructor() {
+    super();
+    this.state = {
+      gridSize: 12
+    };
   }
-  
+
+  updateGridSize = () => {
+    const size = Math.floor(document.body.offsetWidth / 105);
+    if (size !== this.state.gridSize) {
+      this.setState({ gridSize: size > 12 ? 12 : size });
+    }
+  };
+
+  componentDidMount() {
+    this.updateGridSize();
+    window.addEventListener("resize", this.updateGridSize);
+  }
+
+  componentWillUnmount(){
+    window.removeEventListener("resize", this.updateGridSize);
+  }
+
   render() {
-    const gridSize = Math.floor(document.body.offsetWidth / 105) > 12 ? 12 : Math.floor(document.body.offsetWidth / 105);
-    const app = 'auto '.repeat(gridSize);
+    const app = "auto ".repeat(this.state.gridSize);
     return (
-      <div className="page" style={{ gridTemplateColumns: app}}>
-        {this.props.data.map(y => {
-          return <Item key={y.id} data={y} gridSize={gridSize}/>;
+      <div className="page" style={{ gridTemplateColumns: app }}>
+        {this.props.data.map((y,i,pageData) => {
+          return (
+            <Item
+              key={y.id}
+              data={y}
+              gridSize={this.state.gridSize}
+              position={i}
+              pageData={pageData}
+            />
+          );
         })}
       </div>
     );

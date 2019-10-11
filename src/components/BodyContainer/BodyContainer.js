@@ -22,15 +22,15 @@ class BodyContainer extends React.Component {
         searchRes.push(res.data.slice((i*30), (i*30)+30))
       }
       this.setState({ searchRes });
-      console.log(searchRes)
+      //console.log(searchRes)
     });
   }
 
   render() {
     return (
-      <Carousel showThumbs={false}>
+      <Carousel showThumbs={false} >
         {this.state.searchRes.map(x=>{
-          return <SlideContainer data={x} key={Math.random(0, 1)} />;
+          return <SlideContainer data={x} key={Math.random(0, 1)}/>;
         })}
       </Carousel>
     );
