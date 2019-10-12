@@ -2,3 +2,17 @@
 	padding: 10px 50px;
 	background: #e7e7e7;
 }
+
+.res-header {
+	display: flex;
+	width: 70%;
+	justify-content: space-between;
+	padding: 10px 0;
+}
+
+.search-string {
+	font-size: 24px;
+	font-style: italic;
+	font-family: monospace;
+	color: #800000;
+}

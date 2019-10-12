@@ -1,0 +1,10 @@
+.carousel.carousel-slider button.control-arrow{
+    background: rgba(0,0,0,.2)
+}
+.carousel button.control-arrow {
+    opacity: 1;
+}
+
+.carousel li.slide{
+    background: inherit;
+}

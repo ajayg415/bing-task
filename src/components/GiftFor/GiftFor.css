@@ -1,0 +1,44 @@
+.gift-for {
+	text-align: left;
+}
+
+.sprite {
+	display: inline-block;
+	background-image: url("./../../imgs/sprite/sprite.png");
+	background-repeat: no-repeat;
+	background-size: 60px 60px;
+	margin-right: 10px;
+}
+.sprite:hover {
+	background-size: 62px 62px;
+}
+
+.all {
+	background-position: 0px 0px;
+	width: 30px;
+	height: 20px;
+}
+
+.kids {
+	background-position: -30px 0px;
+	width: 30px;
+	height: 20px;
+}
+
+.men {
+	background-position: 0px -19px;
+	width: 30px;
+	height: 21px;
+}
+
+.teen {
+	background-position: -30px -20px;
+	width: 30px;
+	height: 20px;
+}
+
+.women {
+	background-position: 0px -40px;
+	width: 30px;
+	height: 20px;
+}

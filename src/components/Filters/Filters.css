@@ -1,0 +1,17 @@
+.filters {
+	display: flex;
+	width: 70%;
+	justify-content: space-between;
+	font-size: 12px;
+}
+
+.filters>div {
+	border-right: 1px solid #d7d7d7;
+	padding-right: 30px;
+}
+.filters>div:last-child {
+	border-right: none;
+}
+.label{
+	margin-bottom: 5px;
+}

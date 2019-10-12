@@ -1,14 +1,35 @@
 import React from 'react';
 
+import './Item.css';
+
 class Item extends React.Component {
 
-  renderImage(data, style1, style2){
+  renderImage(data){
+    return (
+      <React.Fragment>
+        <img src={`imgs/search/${data.url}.jpg`}/>
+        <div className='figcaption'>
+          <div className='vendor'>Amazon</div>
+          <div className='price'>${data.price}</div>
+        </div>
+      </React.Fragment>
+    )
+  }
+
+  renderReturn(data, style1, style2){
     if(data.width){
-      return <img src={`imgs/search/${data.url}.jpg`} className="height" style={{ gridColumn: style1}} />
+      return (
+        <div className="height" style={{ gridColumn: style1}}>
+            {this.renderImage(data)}
+        </div>)
     }else if(data.height){
-      return <img src={`imgs/search/${data.url}.jpg`} className="height100p" style={{ gridRow: style1, gridColumn: style2}}/>
+      return (
+        <div className="height100p" style={{ gridRow: style1, gridColumn: style2}}>
+          {this.renderImage(data)}
+        </div>
+      )
     }else{
-      return <img src={`imgs/search/${data.url}.jpg`} className="height" />
+      return (<div className="height">{this.renderImage(data)}</div>)
     }
   }
 
@@ -56,7 +77,13 @@ class Item extends React.Component {
       style1 = `${line} / span 2`;
     }
 
-    return this.renderImage(data, style1, style2);
+    //return (<div>{this.renderReturn(data, style1, style2)}</div>)
+    return (
+      <React.Fragment>
+        {this.renderReturn(data, style1, style2)}
+        
+     </React.Fragment>
+    );
 
   }
 };

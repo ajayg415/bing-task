@@ -1,0 +1,37 @@
+.page>div {
+	padding: 5px;
+	background: #fff;
+}
+
+.carousel .slide .height {
+	height: 150px;
+}
+
+.carousel .slide .height100p {
+	height: 100%;
+	position: relative;
+}
+
+.carousel .slide .height img{
+	height: 80%;
+}
+
+.carousel .slide .height100p img{
+	margin-top: 60px;
+}
+
+.figcaption {
+	font-size: 12px;
+	text-align: left;
+}
+.figcaption .vendor{
+	color: grey;
+}
+.figcaption .price{
+	font-size: 10px;
+}
+
+.height100p .figcaption{
+	position: absolute;
+	bottom: 5px;
+}

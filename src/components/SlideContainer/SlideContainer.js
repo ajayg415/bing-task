@@ -1,6 +1,8 @@
 import React from "react";
 import Item from "./../Item/Item";
 
+import './SlideContainer.css';
+
 class SlideContainer extends React.Component {
   constructor() {
     super();
